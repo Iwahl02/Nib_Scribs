@@ -1,2 +1,2 @@
 # Nib_Scribs
-MAGD Lab Assignment 10
+MAGD Github Lab Assignment 
