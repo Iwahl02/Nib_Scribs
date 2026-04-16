@@ -1,4 +1,4 @@
 # Nib_Scribs
-MAGD Lab Assignment 10
+MAGD Github Lab Assignment
 
 These a few of my Intro to Media Arts and Game Develpment assignments
